@@ -33,7 +33,6 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-```
 ## Page 1
 
 
@@ -48,7 +47,6 @@ Figma
   <div class="text-0-1-1">TALENT SHOW</div>
   <div class="text-0-1-2">REGISTER</div>
   <div class="text-0-1-3">LOGIN<br /></div>
-</div>
 ```
 ## CSS
 
